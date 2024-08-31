@@ -1,0 +1,21 @@
+/* Element selector */
+h1, h2, h3 {
+    color: darkslategray;
+    text-decoration: underline;
+    font-size: 30px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/** Class selector **/
+.table {
+    border: darkgrey;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+/** ID selector **/
+#footer {
+    color: blue;
+}
